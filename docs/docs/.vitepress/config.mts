@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ironsagavs-docs/',
   title: "アイアンサーガVS",
   description: "アイアンサーガVSに関するドキュメント",
   themeConfig: {
