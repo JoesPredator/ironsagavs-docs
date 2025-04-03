@@ -8,21 +8,18 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Character', link: '/character' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'キャラクター',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+          { text: '青龍', link: '/character/qing-long' }
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+        ]
+      },
+
+    ],
   }
 })

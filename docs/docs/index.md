@@ -5,21 +5,18 @@ layout: home
 hero:
   name: "アイアンサーガVS"
   text: "アイアンサーガVSに関するドキュメント"
-  tagline: My great project tagline
+  # tagline:
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: キャラクター解説
+      link: /character
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 公式
+    details: 日本語の公式サイト
+    link: https://jp.ironsagavs.com/
+  - title: X
+    details: 日本語の公式X
+    link: https://x.com/ironsagavs
 ---
 
