@@ -4,7 +4,7 @@
 
 [フレームデータ](https://en.ironsagavs.com/frame/?id=7)
 
-## 幻夢拳
+## 幻舞拳
 
 ### コンボ解説
 
