@@ -17,7 +17,8 @@ export default defineConfig({
         text: 'キャラクター',
         items: [
           { text: '表記について', link: '/character/about-notation' },
-          { text: '青龍', link: '/character/qing-long' }
+          { text: '青龍', link: '/character/qing-long' },
+          { text: 'マジンカイザー', link: '/character/mazinkaiser' }
         ]
       },
 
