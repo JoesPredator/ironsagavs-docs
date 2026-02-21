@@ -19,7 +19,8 @@ export default defineConfig({
           { text: '表記について', link: '/character/about-notation' },
           { text: '青龍', link: '/character/qing-long' },
           { text: 'ウァサゴ(A1)', link: '/character/vassago-a1' },
-          { text: 'マジンカイザー', link: '/character/mazinkaiser' }
+          { text: 'マジンカイザー', link: '/character/mazinkaiser' },
+          { text: '未整理のメモ', link: '/character/pending' }
         ]
       },
 
